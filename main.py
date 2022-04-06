@@ -2,6 +2,7 @@ import turtle
 import colorsys
 
 t = turtle.Turtle()
+
 s = turtle.Screen()
 s.bgcolor('back')
 t.speed(0)
