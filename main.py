@@ -4,7 +4,7 @@ import colorsys
 t = turtle.Turtle()
 
 s = turtle.Screen()
-s.bgcolor('back')
+s.bgcolor('black')
 t.speed(0)
 n = 150
 h = 0
